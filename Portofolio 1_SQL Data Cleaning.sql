@@ -184,9 +184,9 @@ WHERE UniqueID IS NULL OR
       Bedrooms IS NULL OR
       FullBath IS NULL OR
       HalfBath IS NULL OR
-	  SaleDateConverted IS NULL OR
-	  PropertySplitAddress IS NULL OR
-	  PropertySplitCity IS NULL OR
-	  OwnerSplitAddress IS NULL OR
-	  OwnerSplitCity IS NULL OR
-	  OwnerSplitState IS NULL
+      SaleDateConverted IS NULL OR
+      PropertySplitAddress IS NULL OR
+      PropertySplitCity IS NULL OR
+      OwnerSplitAddress IS NULL OR
+      OwnerSplitCity IS NULL OR
+      OwnerSplitState IS NULL
